@@ -9,9 +9,13 @@ Research Questions & Expected Findings
 Preliminary questions related to our perspective:
 
 Where is the best place to own an Airbnb house in San Diego?
+
 What kind of homes?
+
 What features may help to become more popular?
+
 Methodology
+
 Data Preparation
 Splited the dataset into training set and testing set
 Remove dollar sign and change price related character to numeric
