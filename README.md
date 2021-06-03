@@ -1,11 +1,16 @@
 # Data-Mining-Project
 
 Airbnb San Diego Market Analysis Report
+
 BUDT 758T Data Mining and Predictive Analysis Team 1
 May 7th, 2020
+
 Introduction
+
 Executive Summary
+
 Research Questions & Expected Findings
+
 Preliminary questions related to our perspective:
 
 Where is the best place to own an Airbnb house in San Diego?
