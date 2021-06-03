@@ -7,6 +7,7 @@ Introduction
 Executive Summary
 Research Questions & Expected Findings
 Preliminary questions related to our perspective:
+
 Where is the best place to own an Airbnb house in San Diego?
 What kind of homes?
 What features may help to become more popular?
